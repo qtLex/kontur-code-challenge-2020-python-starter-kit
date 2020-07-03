@@ -1,6 +1,3 @@
-# kontur-code-challenge-2020-python-starter-kit
-
-```python
 import json
 
 
@@ -20,4 +17,3 @@ def play_game():
         print(json.dumps({"Message": message, "UserCommands": commands}))
 
 play_game()
-```
